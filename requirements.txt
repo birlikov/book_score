@@ -1,0 +1,4 @@
+ebooklib==0.18
+beautifulsoup4==4.11.1
+nltk==3.8
+tqdm==4.62.3
